@@ -14,16 +14,15 @@
 
 ## Screenshot
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot2.png)
-![Screenshot 4](path/to/screenshot2.png)
-![Screenshot 5](path/to/screenshot2.png)
-![Screenshot 6](path/to/screenshot2.png)
-![Screenshot 7](path/to/screenshot2.png)
-![Screenshot 8](path/to/screenshot2.png)
-![Screenshot 9](path/to/screenshot2.png)
-![Screenshot 10](path/to/screenshot2.png)
+![Screenshot 1](images/ss1.png)
+![Screenshot 2](images/ss2.png)
+![Screenshot 3](images/ss3.png)
+![Screenshot 4](images/ss4.png)
+![Screenshot 5](images/ss5.png)
+![Screenshot 6](images/ss6.png)
+![Screenshot 7](images/ss7.png)
+![Screenshot 8](images/ss8.png)
+
 
 ---
 
