@@ -1,0 +1,17 @@
+<resources>
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#388E3C</color>
+    <color name="green_900">#1B5E20</color>
+    <color name="bg">#FAFFF9</color>
+    <color name="text_primary">#263238</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_shadow">#000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_dark">#388E3C</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+
+</resources>

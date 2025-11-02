@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pesan Makan Sunda</string>
+    <string name="start_now">Start Now</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="order">Order</string>
+    <string name="send">Kirim</string>
+    <string name="finish">Selesai</string>
+    <string name="alamat_pengiriman">Alamat Pengiriman</string>
+</resources>
